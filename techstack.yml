@@ -2,7 +2,7 @@ repo_name: mallowigi/themer
 report_id: f33ddbae891fd9ff33353cd25278727a
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:37:17+00:00'
+timestamp: '2024-02-29T18:50:20+00:00'
 requested_by: mjswensen
 provider: github
 branch: master
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/mallowigi/themer
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -119,7 +119,7 @@ tools:
   last_updated_by: Matt Swensen
   last_updated_on: 2018-08-18 19:48:21.000000000 Z
 - name: Sentry
-  description: 'See performance issues, fix errors faster, and optimize code health. '
+  description: See performance issues, fix errors faster, and optimize code health.
   website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
   open_source: true
   hosted_saas: true
